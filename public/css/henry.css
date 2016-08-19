@@ -1,0 +1,28 @@
+.comment{
+  float: none;
+  /*width: 800px;*/
+  height: 50px;
+  margin: 10px;
+  border-bottom: 1px gray solid;
+  /*justify-content:center;
+  align-items:center;
+  display:-webkit-flex;*/
+}
+.commentAuthor{
+  float: left;
+  height: 50px;
+  /*border: 1px green solid;*/
+  margin: 0;
+  margin: auto;
+  line-height: 50px;
+}
+
+.commentText{
+  height: 50px;
+  line-height: 50px;
+  float: left;
+  font-size: italic;
+  color: grey;
+  /*border: 1px black solid;*/
+  margin: auto auto auto 10px;
+}
